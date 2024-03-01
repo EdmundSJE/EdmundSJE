@@ -1,4 +1,4 @@
-<img src="https://pngtree.com/freebackground/modern-double-color-futuristic-neon-background_1181573.html" width="840" height="200" allow="autoplay">
+<img src="https://github.com/EdmundSJE/EdmundSJE/blob/main/0001.jpg" width="840" height="200" allow="autoplay">
 <h1 align="center">Hi .</h1>
 <h3 align="center">A Data Detective with a penchant for crunching numbers and believes in Data for Good.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
